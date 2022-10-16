@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/doctors-appointment-frontend/static/css/main.cd6dc723.css",
+    "main.js": "/doctors-appointment-frontend/static/js/main.24ee841f.js",
+    "index.html": "/doctors-appointment-frontend/index.html",
+    "main.cd6dc723.css.map": "/doctors-appointment-frontend/static/css/main.cd6dc723.css.map",
+    "main.24ee841f.js.map": "/doctors-appointment-frontend/static/js/main.24ee841f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd6dc723.css",
+    "static/js/main.24ee841f.js"
+  ]
+}
